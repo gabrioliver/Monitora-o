@@ -1,0 +1,326 @@
+[
+    {
+        "frase": "até que não foi ruim",
+        "classe": 1
+    },
+    {
+        "frase": "ninguém me entende",
+        "classe": 0
+    },
+    {
+        "frase": "tô no fundo do poço",
+        "classe": 0
+    },
+    {
+        "frase": "tudo normal",
+        "classe": 1
+    },
+    {
+        "frase": "hoje o dia foi maravilhoso",
+        "classe": 1
+    },
+    {
+        "frase": "estou sufocado",
+        "classe": 0
+    },
+    {
+        "frase": "energia lá no alto",
+        "classe": 1
+    },
+    {
+        "frase": "me sinto leve e em paz",
+        "classe": 1
+    },
+    {
+        "frase": "as coisas estão dando certo",
+        "classe": 1
+    },
+    {
+        "frase": "nada me abala hoje",
+        "classe": 1
+    },
+    {
+        "frase": "nada faz sentido",
+        "classe": 0
+    },
+    {
+        "frase": "acordei com vontade de vencer",
+        "classe": 1
+    },
+    {
+        "frase": "me sinto estável",
+        "classe": 1
+    },
+    {
+        "frase": "tudo me irrita",
+        "classe": 0
+    },
+    {
+        "frase": "o dia foi ok",
+        "classe": 1
+    },
+    {
+        "frase": "cansei de fingir que tá tudo bem",
+        "classe": 0
+    },
+    {
+        "frase": "tô na bad",
+        "classe": 0
+    },
+    {
+        "frase": "tô orgulhoso de mim",
+        "classe": 1
+    },
+    {
+        "frase": "estou em paz comigo mesmo",
+        "classe": 1
+    },
+    {
+        "frase": "não sei o que fazer",
+        "classe": 0
+    },
+    {
+        "frase": "confiante como nunca",
+        "classe": 1
+    },
+    {
+        "frase": "dia péssimo",
+        "classe": 0
+    },
+    {
+        "frase": "nada demais aconteceu",
+        "classe": 1
+    },
+    {
+        "frase": "me diverti demais hoje",
+        "classe": 1
+    },
+    {
+        "frase": "decepcionado com tudo",
+        "classe": 0
+    },
+    {
+        "frase": "tô no automático",
+        "classe": 1
+    },
+    {
+        "frase": "tudo errado hoje",
+        "classe": 0
+    },
+    {
+        "frase": "não tenho forças",
+        "classe": 0
+    },
+    {
+        "frase": "tô de bem com a vida",
+        "classe": 1
+    },
+    {
+        "frase": "não quero conversar",
+        "classe": 0
+    },
+    {
+        "frase": "tudo fluiu tão bem hoje",
+        "classe": 1
+    },
+    {
+        "frase": "tô tentando ver o lado bom",
+        "classe": 1
+    },
+    {
+        "frase": "resiliência é tudo",
+        "classe": 1
+    },
+    {
+        "frase": "senti muita alegria no coração",
+        "classe": 1
+    },
+    {
+        "frase": "que saco",
+        "classe": 0
+    },
+    {
+        "frase": "só queria dormir e esquecer",
+        "classe": 0
+    },
+    {
+        "frase": "mais um dia comum",
+        "classe": 1
+    },
+    {
+        "frase": "me sinto completo",
+        "classe": 1
+    },
+    {
+        "frase": "uma vitória de cada vez",
+        "classe": 1
+    },
+    {
+        "frase": "estou no limite",
+        "classe": 0
+    },
+    {
+        "frase": "cansado de tudo",
+        "classe": 0
+    },
+    {
+        "frase": "seguindo em frente",
+        "classe": 1
+    },
+    {
+        "frase": "estava tudo perfeito",
+        "classe": 1
+    },
+    {
+        "frase": "me sinto vazio",
+        "classe": 0
+    },
+    {
+        "frase": "saturado",
+        "classe": 0
+    },
+    {
+        "frase": "me sinto forte e confiante",
+        "classe": 1
+    },
+    {
+        "frase": "curti cada segundo do dia",
+        "classe": 1
+    },
+    {
+        "frase": "hoje foi tranquilo",
+        "classe": 1
+    },
+    {
+        "frase": "só gratidão por esse momento",
+        "classe": 1
+    },
+    {
+        "frase": "tô indo",
+        "classe": 1
+    },
+    {
+        "frase": "não tenho do que reclamar",
+        "classe": 1
+    },
+    {
+        "frase": "hoje me senti realizado",
+        "classe": 1
+    },
+    {
+        "frase": "tô super animado com tudo",
+        "classe": 1
+    },
+    {
+        "frase": "estou aqui",
+        "classe": 1
+    },
+    {
+        "frase": "quero sumir",
+        "classe": 0
+    },
+    {
+        "frase": "que vibe boa hoje",
+        "classe": 1
+    },
+    {
+        "frase": "meio sem graça, mas tudo bem",
+        "classe": 1
+    },
+    {
+        "frase": "não aguento mais",
+        "classe": 0
+    },
+    {
+        "frase": "sem muitas novidades",
+        "classe": 1
+    },
+    {
+        "frase": "sou grato por estar aqui",
+        "classe": 1
+    },
+    {
+        "frase": "tô esgotado",
+        "classe": 0
+    },
+    {
+        "frase": "sorrisos por todo lado",
+        "classe": 1
+    },
+    {
+        "frase": "não vejo sentido nas coisas",
+        "classe": 0
+    },
+    {
+        "frase": "tô com raiva de mim mesmo",
+        "classe": 0
+    },
+    {
+        "frase": "melhor do que ontem",
+        "classe": 1
+    },
+    {
+        "frase": "um dia como outro qualquer",
+        "classe": 1
+    },
+    {
+        "frase": "olá tudo bem",
+        "classe": 0
+    },
+    {
+        "frase": "que é isso mas você tá tão bonita hoje",
+        "classe": 1
+    },
+    {
+        "frase": "sua voz está muito feia",
+        "classe": 0
+    },
+    {
+        "frase": "como podemos fazer algo hoje",
+        "classe": 0
+    },
+    {
+        "frase": "você conhece uma árvore",
+        "classe": 0
+    },
+    {
+        "frase": "ligar ar-condicionado",
+        "classe": 0
+    },
+    {
+        "frase": "do que você está falando",
+        "classe": 0
+    },
+    {
+        "frase": "não não colaborou",
+        "classe": 0
+    },
+    {
+        "frase": "vamos entender melhor o que você",
+        "classe": 0
+    },
+    {
+        "frase": "preciso viajar",
+        "classe": 0
+    },
+    {
+        "frase": "e daí eu quero viajar do mesmo jeito",
+        "classe": 1
+    },
+    {
+        "frase": "vestido",
+        "classe": 0
+    },
+    {
+        "frase": "seu robô",
+        "classe": 0
+    },
+    {
+        "frase": "vamos jogar",
+        "classe": 0
+    },
+    {
+        "frase": "eu te chamei para jogar",
+        "classe": 0
+    }
+]

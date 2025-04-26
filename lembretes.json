@@ -1,0 +1,47 @@
+[
+  {
+    "tipo": "IPTU",
+    "data": "2025-05-10",
+    "descricao": "Parcela única"
+  },
+  {
+    "tipo": "Saneago",
+    "data": "2025-04-25",
+    "descricao": "Conta de Abril"
+  },
+  {
+    "tipo": "IPVA",
+    "data": "2025-05-05",
+    "descricao": "1ª parcela"
+  },
+  {
+    "tipo": "IPTU",
+    "data": "2025-05-10",
+    "descricao": "Parcela única"
+  },
+  {
+    "tipo": "Saneago",
+    "data": "2025-04-25",
+    "descricao": "Conta de Abril"
+  },
+  {
+    "tipo": "IPVA",
+    "data": "2025-05-05",
+    "descricao": "1ª parcela"
+  },
+  {
+    "tipo": "IPTU",
+    "data": "2025-05-10",
+    "descricao": "Parcela única"
+  },
+  {
+    "tipo": "Saneago",
+    "data": "2025-04-25",
+    "descricao": "Conta de Abril"
+  },
+  {
+    "tipo": "IPVA",
+    "data": "2025-05-05",
+    "descricao": "1ª parcela"
+  }
+]

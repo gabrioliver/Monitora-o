@@ -1,0 +1,656 @@
+[2025-04-22 11:51:32] Iniciando monitoramento da transmissão...
+[2025-04-23 06:27:12] Iniciando monitoramento da transmissão...
+[2025-04-23 08:14:38] Iniciando monitoramento da transmissão...
+[2025-04-25 15:18:59] Iniciando monitoramento da transmissão...
+[2025-04-25 15:49:10] Iniciando monitoramento da transmissão...
+2025-04-25 16:35:07 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 16:37:11 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 16:44:00 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 17:06:21 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 17:06:26 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 17:06:28 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 17:08:44 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 17:08:44 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 17:10:32 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 17:38:12 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 17:38:13 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 17:40:01 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 17:42:34 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 17:46:00 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 17:46:27 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 17:50:41 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 17:57:40.152437 [ERRO] Falha ao capturar frame de vídeo.
+2025-04-25 17:57:40.840257 [ERRO] Falha ao capturar áudio.
+2025-04-25 17:57:40.841267 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 17:57:40.841267 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 17:57:40 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 18:06:23 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 18:16:43 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 18:20:20 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 19:28:05 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 19:32:21 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 19:32:29 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 19:32:39.436310 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 19:32:49.449320 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 19:32:49.449320 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:32:49.449320 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:32:49 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:32:49 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:34:44 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 19:34:54.432231 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 19:35:04.768139 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 19:35:04.768139 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:35:04.768139 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:35:04 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:35:04 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:37:50 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 19:38:00.517476 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 19:38:10.528634 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 19:38:10.529830 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:38:10.529830 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:38:10 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:38:10 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:40:10 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 19:40:20.073421 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 19:40:30.101187 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 19:40:30.102708 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:40:30.102708 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:40:30 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:40:30 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:43:06 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 19:43:16.602215 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 19:43:26.623655 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 19:43:27.299095 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:43:27.299095 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:43:27 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:43:27 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:45:01 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 19:45:11.474363 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 19:45:21.498047 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 19:45:21.498047 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:45:21.498047 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:45:21 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:45:21 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:51:45 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 19:51:55.211859 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 19:52:05.222681 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 19:52:05.222681 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:52:05.222681 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:52:05 [ALERTA] Imagem não encontrada (possível falha de vídeo).
+2025-04-25 19:52:05 [ALERTA] Áudio não encontrado (possível falha de áudio).
+2025-04-25 19:58:19 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 19:58:29.592374 [ALERTA] Áudio mudo detectado!
+2025-04-25 19:58:29 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:01:25 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:01:32.924216 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:01:32 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:07:48 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:07:56.289217 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:07:56 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:08:22 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 20:15:49 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:15:59.892847 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:15:59 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:16:18 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 20:16:46 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:16:53.101293 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:16:53 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:17:57 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 20:20:55 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:21:04.428376 [OK] Transmissão normal.
+2025-04-25 20:21:04 [OK] Transmissão normal.
+2025-04-25 20:23:51 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 20:24:08 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:24:21.147098 [OK] Transmissão normal.
+2025-04-25 20:24:21 [OK] Transmissão normal.
+2025-04-25 20:24:52 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 20:26:24 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:26:36.454323 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:26:36 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:27:19 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 20:27:20 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:27:32.668825 [OK] Transmissão normal.
+2025-04-25 20:27:32 [OK] Transmissão normal.
+2025-04-25 20:30:25 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:30:40.359686 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:30:40.908670 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:30:40 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:33:58 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 20:34:02 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:34:18.063897 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:34:22.599846 [OK] Transmissão normal.
+2025-04-25 20:34:22 [OK] Transmissão normal.
+2025-04-25 20:36:24 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 20:36:28 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:36:41.265744 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:36:41.679616 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:36:41 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:37:31 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:37:35 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 20:38:05 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 20:38:21.257647 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:38:24.832423 [OK] Transmissão normal.
+2025-04-25 20:38:24 [OK] Transmissão normal.
+2025-04-25 20:38:46.256300 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:38:46.678995 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:38:46 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:39:11.249084 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:39:14.217287 [OK] Transmissão normal.
+2025-04-25 20:39:14 [OK] Transmissão normal.
+2025-04-25 20:39:36.250125 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:39:40.829342 [OK] Transmissão normal.
+2025-04-25 20:39:40 [OK] Transmissão normal.
+2025-04-25 20:40:06.041800 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:40:10.813234 [OK] Transmissão normal.
+2025-04-25 20:40:10 [OK] Transmissão normal.
+2025-04-25 20:40:34.721878 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:40:40.864985 [OK] Transmissão normal.
+2025-04-25 20:40:40 [OK] Transmissão normal.
+2025-04-25 20:41:06.064979 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:41:09.084873 [OK] Transmissão normal.
+2025-04-25 20:41:09 [OK] Transmissão normal.
+2025-04-25 20:41:32.930807 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:41:36.893035 [OK] Transmissão normal.
+2025-04-25 20:41:36 [OK] Transmissão normal.
+2025-04-25 20:42:02.099850 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:42:05.355948 [OK] Transmissão normal.
+2025-04-25 20:42:05 [OK] Transmissão normal.
+2025-04-25 20:42:31.257851 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:42:31.659578 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:42:31 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:42:56.263937 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:42:58.550658 [OK] Transmissão normal.
+2025-04-25 20:42:58 [OK] Transmissão normal.
+2025-04-25 20:43:21.262033 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:43:24.302550 [OK] Transmissão normal.
+2025-04-25 20:43:24 [OK] Transmissão normal.
+2025-04-25 20:43:46.262621 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:43:49.898704 [OK] Transmissão normal.
+2025-04-25 20:43:49 [OK] Transmissão normal.
+2025-04-25 20:44:15.106313 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:44:17.946503 [OK] Transmissão normal.
+2025-04-25 20:44:17 [OK] Transmissão normal.
+2025-04-25 20:44:43.165174 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:44:47.024156 [OK] Transmissão normal.
+2025-04-25 20:44:47 [OK] Transmissão normal.
+2025-04-25 20:45:09.596235 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:45:13.747586 [OK] Transmissão normal.
+2025-04-25 20:45:13 [OK] Transmissão normal.
+2025-04-25 20:45:38.968105 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:45:43.226061 [OK] Transmissão normal.
+2025-04-25 20:45:43 [OK] Transmissão normal.
+2025-04-25 20:46:07.916084 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:46:12.425910 [OK] Transmissão normal.
+2025-04-25 20:46:12 [OK] Transmissão normal.
+2025-04-25 20:46:37.644185 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:46:40.837956 [OK] Transmissão normal.
+2025-04-25 20:46:40 [OK] Transmissão normal.
+2025-04-25 20:47:06.269441 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:47:09.256598 [OK] Transmissão normal.
+2025-04-25 20:47:09 [OK] Transmissão normal.
+2025-04-25 20:47:31.262495 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:47:34.302254 [OK] Transmissão normal.
+2025-04-25 20:47:34 [OK] Transmissão normal.
+2025-04-25 20:47:56.274072 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:47:58.964967 [OK] Transmissão normal.
+2025-04-25 20:47:58 [OK] Transmissão normal.
+2025-04-25 20:48:21.249538 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:48:25.351228 [OK] Transmissão normal.
+2025-04-25 20:48:25 [OK] Transmissão normal.
+2025-04-25 20:48:50.564845 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:48:54.711239 [OK] Transmissão normal.
+2025-04-25 20:48:54 [OK] Transmissão normal.
+2025-04-25 20:49:19.593966 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:49:22.819915 [OK] Transmissão normal.
+2025-04-25 20:49:22 [OK] Transmissão normal.
+2025-04-25 20:49:44.592829 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:49:45.003778 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:49:45 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:50:09.604346 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:50:13.261343 [OK] Transmissão normal.
+2025-04-25 20:50:13 [OK] Transmissão normal.
+2025-04-25 20:50:38.464206 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:50:42.433390 [OK] Transmissão normal.
+2025-04-25 20:50:42 [OK] Transmissão normal.
+2025-04-25 20:51:07.933523 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:51:11.143188 [OK] Transmissão normal.
+2025-04-25 20:51:11 [OK] Transmissão normal.
+2025-04-25 20:51:32.927723 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:51:36.533366 [OK] Transmissão normal.
+2025-04-25 20:51:36 [OK] Transmissão normal.
+2025-04-25 20:52:01.736685 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:52:02.135178 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:52:02 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:52:27.341946 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:52:31.587825 [OK] Transmissão normal.
+2025-04-25 20:52:31 [OK] Transmissão normal.
+2025-04-25 20:52:56.256836 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:52:56.667010 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:52:56 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:53:21.265232 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:53:21.660446 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:53:21 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:53:46.260110 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:53:49.123735 [OK] Transmissão normal.
+2025-04-25 20:53:49 [OK] Transmissão normal.
+2025-04-25 20:54:11.269276 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:54:13.738632 [OK] Transmissão normal.
+2025-04-25 20:54:13 [OK] Transmissão normal.
+2025-04-25 20:54:36.267885 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:54:39.413258 [OK] Transmissão normal.
+2025-04-25 20:54:39 [OK] Transmissão normal.
+2025-04-25 20:55:01.245303 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:55:05.084247 [OK] Transmissão normal.
+2025-04-25 20:55:05 [OK] Transmissão normal.
+2025-04-25 20:55:30.299606 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:55:32.645469 [OK] Transmissão normal.
+2025-04-25 20:55:32 [OK] Transmissão normal.
+2025-04-25 20:55:57.829415 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:56:01.055674 [OK] Transmissão normal.
+2025-04-25 20:56:01 [OK] Transmissão normal.
+2025-04-25 20:56:24.608148 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:56:25.006295 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:56:25 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:56:49.594024 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:56:55.231953 [OK] Transmissão normal.
+2025-04-25 20:56:55 [OK] Transmissão normal.
+2025-04-25 20:57:20.440976 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:57:23.783220 [OK] Transmissão normal.
+2025-04-25 20:57:23 [OK] Transmissão normal.
+2025-04-25 20:57:47.934536 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:57:48.330897 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:57:48 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:58:12.938433 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:58:17.527147 [OK] Transmissão normal.
+2025-04-25 20:58:17 [OK] Transmissão normal.
+2025-04-25 20:58:42.738310 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:58:43.136078 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:58:43 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:59:08.345908 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:59:08.744715 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:59:08 [ALERTA] Áudio mudo detectado!
+2025-04-25 20:59:33.971093 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 20:59:35.696590 [OK] Transmissão normal.
+2025-04-25 20:59:35 [OK] Transmissão normal.
+2025-04-25 21:00:01.266875 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:00:04.076758 [OK] Transmissão normal.
+2025-04-25 21:00:04 [OK] Transmissão normal.
+2025-04-25 21:00:26.274066 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:00:29.655614 [OK] Transmissão normal.
+2025-04-25 21:00:29 [OK] Transmissão normal.
+2025-04-25 21:00:51.261402 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:00:53.265825 [OK] Transmissão normal.
+2025-04-25 21:00:53 [OK] Transmissão normal.
+2025-04-25 21:01:16.264031 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:01:18.460132 [OK] Transmissão normal.
+2025-04-25 21:01:18 [OK] Transmissão normal.
+2025-04-25 21:01:41.255170 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:01:42.691525 [OK] Transmissão normal.
+2025-04-25 21:01:42 [OK] Transmissão normal.
+2025-04-25 21:02:06.252888 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:02:09.769812 [OK] Transmissão normal.
+2025-04-25 21:02:09 [OK] Transmissão normal.
+2025-04-25 21:02:31.249632 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:02:31.666444 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:02:31 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:02:56.255567 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:02:56.652081 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:02:56 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:03:21.262797 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:03:24.540731 [OK] Transmissão normal.
+2025-04-25 21:03:24 [OK] Transmissão normal.
+2025-04-25 21:03:46.265160 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:03:48.933300 [OK] Transmissão normal.
+2025-04-25 21:03:48 [OK] Transmissão normal.
+2025-04-25 21:04:11.263141 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:04:13.601243 [OK] Transmissão normal.
+2025-04-25 21:04:13 [OK] Transmissão normal.
+2025-04-25 21:04:36.258389 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:04:38.854925 [OK] Transmissão normal.
+2025-04-25 21:04:38 [OK] Transmissão normal.
+2025-04-25 21:05:01.231826 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:05:04.310295 [OK] Transmissão normal.
+2025-04-25 21:05:04 [OK] Transmissão normal.
+2025-04-25 21:05:26.253257 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:05:30.438246 [OK] Transmissão normal.
+2025-04-25 21:05:30 [OK] Transmissão normal.
+2025-04-25 21:05:55.639193 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:05:58.740469 [OK] Transmissão normal.
+2025-04-25 21:05:58 [OK] Transmissão normal.
+2025-04-25 21:06:24.601537 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:06:27.391374 [OK] Transmissão normal.
+2025-04-25 21:06:27 [OK] Transmissão normal.
+2025-04-25 21:06:49.601266 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:06:53.061221 [OK] Transmissão normal.
+2025-04-25 21:06:53 [OK] Transmissão normal.
+2025-04-25 21:07:14.585343 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:07:18.521628 [OK] Transmissão normal.
+2025-04-25 21:07:18 [OK] Transmissão normal.
+2025-04-25 21:07:43.731869 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:07:48.408437 [OK] Transmissão normal.
+2025-04-25 21:07:48 [OK] Transmissão normal.
+2025-04-25 21:08:12.924722 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:08:16.664620 [OK] Transmissão normal.
+2025-04-25 21:08:16 [OK] Transmissão normal.
+2025-04-25 21:08:41.872561 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:08:43.648588 [OK] Transmissão normal.
+2025-04-25 21:08:43 [OK] Transmissão normal.
+2025-04-25 21:09:08.860239 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:09:11.888931 [OK] Transmissão normal.
+2025-04-25 21:09:11 [OK] Transmissão normal.
+2025-04-25 21:09:36.256778 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:09:40.791250 [OK] Transmissão normal.
+2025-04-25 21:09:40 [OK] Transmissão normal.
+2025-04-25 21:10:06.001399 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:10:10.606550 [OK] Transmissão normal.
+2025-04-25 21:10:10 [OK] Transmissão normal.
+2025-04-25 21:10:34.586384 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:10:38.218643 [OK] Transmissão normal.
+2025-04-25 21:10:38 [OK] Transmissão normal.
+2025-04-25 21:11:03.415544 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:11:03.808100 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:11:03 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:11:29.010814 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:11:29.412726 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:11:29 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:11:54.616420 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:11:55.018867 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:11:55 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:12:20.234779 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:12:20.661545 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:12:20 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:12:45.869387 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:12:46.266042 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:12:46 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:13:11.474887 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:13:11.877135 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:13:11 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:13:37.923719 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:13:42.038775 [OK] Transmissão normal.
+2025-04-25 21:13:42 [OK] Transmissão normal.
+2025-04-25 21:14:07.257160 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:14:10.952466 [OK] Transmissão normal.
+2025-04-25 21:14:10 [OK] Transmissão normal.
+2025-04-25 21:14:36.260017 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:14:37 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 21:15:20 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:15:34.603800 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:15:37.189599 [OK] Transmissão normal.
+2025-04-25 21:15:37 [OK] Transmissão normal.
+2025-04-25 21:15:47 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:15:59.604269 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:16:02.033588 [OK] Transmissão normal.
+2025-04-25 21:16:02 [OK] Transmissão normal.
+2025-04-25 21:16:12 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:16:24.598708 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:16:26.918570 [OK] Transmissão normal.
+2025-04-25 21:16:26 [OK] Transmissão normal.
+2025-04-25 21:16:36 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:16:49.605965 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:16:53.070153 [OK] Transmissão normal.
+2025-04-25 21:16:53 [OK] Transmissão normal.
+2025-04-25 21:17:03 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:17:14.594664 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:17:18.282123 [OK] Transmissão normal.
+2025-04-25 21:17:18 [OK] Transmissão normal.
+2025-04-25 21:17:28 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:17:40 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 21:18:05 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:18:21.255332 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:18:24.484525 [OK] Transmissão normal.
+2025-04-25 21:18:24 [OK] Transmissão normal.
+2025-04-25 21:18:34 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:18:46.257204 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:18:48.774249 [OK] Transmissão normal.
+2025-04-25 21:18:48 [OK] Transmissão normal.
+2025-04-25 21:18:58 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:19:02 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 21:19:11.256721 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:19:13.551993 [OK] Transmissão normal.
+2025-04-25 21:19:13 [OK] Transmissão normal.
+2025-04-25 21:23:01 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:23:12.921600 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:23:13.339149 [ALERTA] Tela preta detectada!
+2025-04-25 21:23:13.339149 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:23:13 [ALERTA] Tela preta detectada!
+2025-04-25 21:23:13 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:23:23 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:23:37.927716 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:23:38.322422 [ALERTA] Tela preta detectada!
+2025-04-25 21:23:38.322422 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:23:38 [ALERTA] Tela preta detectada!
+2025-04-25 21:23:38 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:23:48 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:24:02.916821 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:24:03.324546 [ALERTA] Tela preta detectada!
+2025-04-25 21:24:03.324546 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:24:03 [ALERTA] Tela preta detectada!
+2025-04-25 21:24:03 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:24:13 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:24:28.534297 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:24:28.932609 [ALERTA] Tela preta detectada!
+2025-04-25 21:24:28.932609 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:24:28 [ALERTA] Tela preta detectada!
+2025-04-25 21:24:28 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:24:38 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:24:54.124006 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:24:56.095976 [ALERTA] Tela preta detectada!
+2025-04-25 21:24:56 [ALERTA] Tela preta detectada!
+2025-04-25 21:25:06 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:25:22.330770 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:25:22.737384 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:25:22 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:25:32 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:25:47.339920 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:25:47.740685 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:25:47 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:25:57 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:26:12.348283 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:26:12.757339 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:26:12 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:26:22 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:26:32.802091 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:26:33 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 21:28:56 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:29:11.341406 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:29:11.748226 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:29:11 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:29:21 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:29:38.253136 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:29:38.656238 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:29:38 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:29:48 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:30:03.258113 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:30:03.657844 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:30:03 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:30:13 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:30:28.260327 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:30:28.659655 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:30:28 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:30:38 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:30:53.263280 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:30:56.325290 [OK] Transmissão normal.
+2025-04-25 21:30:56 [OK] Transmissão normal.
+2025-04-25 21:31:06 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:31:18.253502 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:31:18.659789 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:31:18 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:31:28 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:31:43.264970 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:31:46.715814 [OK] Transmissão normal.
+2025-04-25 21:31:46 [OK] Transmissão normal.
+2025-04-25 21:31:56 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:32:08.258306 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:32:11.762881 [OK] Transmissão normal.
+2025-04-25 21:32:11 [OK] Transmissão normal.
+2025-04-25 21:32:21 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:32:33.265415 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:32:33.665167 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:32:33 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:32:43 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:32:58.254523 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:33:00.690002 [ALERTA] Tela preta detectada!
+2025-04-25 21:33:00 [ALERTA] Tela preta detectada!
+2025-04-25 21:33:10 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:33:23.256039 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:33:26.460713 [ALERTA] Tela preta detectada!
+2025-04-25 21:33:26 [ALERTA] Tela preta detectada!
+2025-04-25 21:33:36 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:33:48.245536 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:33:51.446801 [ALERTA] Tela preta detectada!
+2025-04-25 21:33:51 [ALERTA] Tela preta detectada!
+2025-04-25 21:34:01 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:34:13.258275 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:34:15.842831 [ALERTA] Tela preta detectada!
+2025-04-25 21:34:15 [ALERTA] Tela preta detectada!
+2025-04-25 21:34:25 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:34:35.878580 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:34:45.894602 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:34:48.460300 [ALERTA] Tela preta detectada!
+2025-04-25 21:34:48 [ALERTA] Tela preta detectada!
+2025-04-25 21:34:58 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:35:08.488094 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:35:18.501615 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:35:21.555392 [ALERTA] Tela preta detectada!
+2025-04-25 21:35:21 [ALERTA] Tela preta detectada!
+2025-04-25 21:35:31 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:35:41.585693 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:35:51.603133 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:35:54.290650 [ALERTA] Tela preta detectada!
+2025-04-25 21:35:54 [ALERTA] Tela preta detectada!
+2025-04-25 21:36:04 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:36:14.318018 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:36:24.330309 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:36:27.099304 [ALERTA] Tela preta detectada!
+2025-04-25 21:36:27 [ALERTA] Tela preta detectada!
+2025-04-25 21:36:37 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:36:47.145010 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:36:57.165143 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:36:59.752537 [ALERTA] Tela preta detectada!
+2025-04-25 21:36:59 [ALERTA] Tela preta detectada!
+2025-04-25 21:37:09 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:37:19.781342 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:37:29.795922 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:37:32.396485 [ALERTA] Tela preta detectada!
+2025-04-25 21:37:32 [ALERTA] Tela preta detectada!
+2025-04-25 21:37:42 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:37:52.425480 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:38:02.443992 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:38:05.366574 [ALERTA] Tela preta detectada!
+2025-04-25 21:38:05 [ALERTA] Tela preta detectada!
+2025-04-25 21:38:15 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:38:25.384136 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:38:35.391930 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:38:38.509525 [ALERTA] Tela preta detectada!
+2025-04-25 21:38:38 [ALERTA] Tela preta detectada!
+2025-04-25 21:38:48 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:38:58.526657 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:39:08.547121 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:39:11.154981 [ALERTA] Tela preta detectada!
+2025-04-25 21:39:11 [ALERTA] Tela preta detectada!
+2025-04-25 21:39:21 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:39:31.182154 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:39:41.200074 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:39:43.933769 [ALERTA] Tela preta detectada!
+2025-04-25 21:39:43 [ALERTA] Tela preta detectada!
+2025-04-25 21:39:53 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:40:03.961495 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:40:13.976787 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:40:17.291207 [ALERTA] Tela preta detectada!
+2025-04-25 21:40:17 [ALERTA] Tela preta detectada!
+2025-04-25 21:40:27 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:40:37.316264 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:40:47.330296 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:40:50.320403 [ALERTA] Tela preta detectada!
+2025-04-25 21:40:50 [ALERTA] Tela preta detectada!
+2025-04-25 21:41:00 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:41:10.339444 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:41:20.358806 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:41:23.193281 [ALERTA] Tela preta detectada!
+2025-04-25 21:41:23 [ALERTA] Tela preta detectada!
+2025-04-25 21:41:33 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:41:43.222187 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:41:53.232333 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:41:55.836641 [ALERTA] Tela preta detectada!
+2025-04-25 21:41:55 [ALERTA] Tela preta detectada!
+2025-04-25 21:42:05 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:42:15.861659 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:42:25.881475 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:42:28.517293 [ALERTA] Tela preta detectada!
+2025-04-25 21:42:28 [ALERTA] Tela preta detectada!
+2025-04-25 21:42:38 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:42:50.103733 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:42:51.760490 [ALERTA] Tela preta detectada!
+2025-04-25 21:42:51 [ALERTA] Tela preta detectada!
+2025-04-25 21:43:01 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:43:15.115132 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:43:15.526867 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:43:15 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:43:25 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:43:35.561088 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:43:45.577205 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:43:45.965533 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:43:45 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:43:55 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:44:05.988208 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:44:16.004531 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:44:16.410720 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:44:16 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:44:26 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:44:36.440667 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:44:46.456654 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:44:46.866850 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:44:46 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:44:56 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:45:06.915443 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:45:16.932807 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:45:17.329080 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:45:17 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:45:27 [INFO] Iniciando monitoramento manualmente...
+2025-04-25 21:45:37.352015 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:45:42 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 21:49:50 [INFO] Monitoramento iniciado.
+2025-04-25 21:50:00.714449 [ERRO] Timeout ao tentar capturar frame de vídeo.
+2025-04-25 21:50:10.723100 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:50:10 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:50:36.291869 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:50:36 [OK] Transmissão normal.
+2025-04-25 21:51:01.921449 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:51:02 [ALERTA] Quadro congelado detectado!
+2025-04-25 21:51:27.519050 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:51:53.156549 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:52:20.115987 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:52:45.121657 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:52:45 [OK] Transmissão normal.
+2025-04-25 21:53:10.121216 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:53:10 [ALERTA] Quadro congelado detectado!
+2025-04-25 21:53:10 [ALERTA] Áudio mudo detectado!
+2025-04-25 21:53:35.122832 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:54:00.114812 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:54:25.112324 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:54:50.120027 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:55:15.118788 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:55:40.121920 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:56:05.108961 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:56:30.129948 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 21:56:32 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 21:56:36 [INFO] Monitoramento iniciado.
+2025-04-25 21:58:12 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-25 21:58:13 [INFO] Monitoramento iniciado.
+2025-04-25 21:59:57 [INFO] Monitoramento iniciado.
+2025-04-25 22:00:15.123161 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 22:00:15 [ALERTA] Áudio mudo detectado!
+2025-04-25 22:00:31.786384 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 22:00:32 [ALERTA] Áudio mudo detectado!
+2025-04-25 22:00:48.445392 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 22:00:48 [OK] Transmissão normal.
+2025-04-25 22:01:05.110948 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 22:01:05 [ALERTA] Áudio mudo detectado!
+2025-04-25 22:01:21.791213 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 22:01:22 [ALERTA] Áudio mudo detectado!
+2025-04-25 22:01:38.445742 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 22:01:38 [ALERTA] Áudio mudo detectado!
+2025-04-25 22:01:55.119325 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-25 22:01:55 [ALERTA] Áudio mudo detectado!
+2025-04-26 08:09:18 [INFO] Monitoramento iniciado.
+2025-04-26 08:09:53 [INFO] Monitoramento interrompido pelo usuário.

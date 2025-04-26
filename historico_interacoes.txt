@@ -1,0 +1,130 @@
+[20/04/2025 11:10:18] PERGUNTA: quando devo pagar meu ipva
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:10:25] PERGUNTA: ipva
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:10:26] PERGUNTA: ipva
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:10:27] PERGUNTA: ipva
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:10:34] PERGUNTA: olá
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:10:39] PERGUNTA: ipva
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:34] PERGUNTA: cnh
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:38] PERGUNTA: cnh
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:39] PERGUNTA: cnh
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:39] PERGUNTA: cnh
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:43] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:44] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:44] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:44] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:45] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:45] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:45] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 11:59:45] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:11] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:12] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:14] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:14] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:14] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:14] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:15] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:19] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:30] PERGUNTA: como tirar minha cnh
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:31] PERGUNTA: como tirar minha cnh
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:01:31] PERGUNTA: como tirar minha cnh
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:02:02] PERGUNTA: quero saber sobre iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:02:03] PERGUNTA: quero saber sobre iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:02:03] PERGUNTA: quero saber sobre iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:02:04] PERGUNTA: quero saber sobre iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:02:04] PERGUNTA: quero saber sobre iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:02:04] PERGUNTA: quero saber sobre iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[20/04/2025 12:04:02] PERGUNTA: iptu
+[RESPOSTA]: Desculpe, não encontrei informações sobre isso ainda. Tente reformular.
+
+[21/04/2025 06:52:32] PERGUNTA: quero saber de cnh
+[RESPOSTA]: Para renovar a CNH em Goiás, acesse o site do Detran GO.
+
+[21/04/2025 06:54:13] PERGUNTA: quero saber de cnh
+[RESPOSTA]: Para renovar a CNH em Goiás, acesse o site do Detran GO.
+
+[21/04/2025 06:54:20] PERGUNTA: quero saber de iptu
+[RESPOSTA]: IPTU pode ser consultado no site da prefeitura com CPF.
+
+[21/04/2025 08:46:39] PERGUNTA: olá
+[RESPOSTA]: Desculpe, não encontrei uma resposta exata ainda.
+Mas posso ajudar com IPTU, IPVA, CNH, RG, Detran ou agendamentos. Sobre o que você quer saber?
+
+[21/04/2025 08:46:57] PERGUNTA: tenho dúvidas quanto a retirar a cnh
+[RESPOSTA]: A renovação da CNH pode ser feita no site do Detran GO.
+
+[21/04/2025 08:47:12] PERGUNTA: tenho que levar quais documentos?
+[RESPOSTA]: Agende atendimento no Detran GO em agendamento.go.gov.br.
+
+[21/04/2025 08:55:03] PERGUNTA: quero tirar o ipva
+[RESPOSTA]: Agende atendimento no Detran GO em agendamento.go.gov.br.
+
