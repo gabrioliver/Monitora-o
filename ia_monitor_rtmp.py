@@ -6,7 +6,7 @@ from detector_video import verificar_black_screen, verificar_freeze
 from detector_audio import verificar_audio_mudo
 
 # Configurações
-RTMP_URL = "rtmp://192.168.1.2/live/test"  # ajuste o IP se necessário
+RTMP_URL = "rtmp://stream.ojc.com.br/teste_Tje5is6EIclAv0qP5hqaL6ylFb6He9XEbd2seF1x9A1HSmosYlAQZaFGHvmC/live\"  # ajuste o IP se necessário
 FRAME_CAPTURE_PATH = "frames/frame.jpg"
 AUDIO_CAPTURE_PATH = "audio/audio.wav"
 BLACK_THRESHOLD = 15  # valor para detectar tela preta

@@ -1,1 +1,10 @@
-venv/ 
+audio/
+frames/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+*.wav
+*.jpg

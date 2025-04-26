@@ -654,3 +654,45 @@
 2025-04-25 22:01:55 [ALERTA] Áudio mudo detectado!
 2025-04-26 08:09:18 [INFO] Monitoramento iniciado.
 2025-04-26 08:09:53 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-26 10:29:51 [INFO] Monitoramento iniciado.
+2025-04-26 10:30:20 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-26 10:47:05 [INFO] Monitoramento iniciado.
+2025-04-26 10:47:15 [INFO] Monitoramento interrompido pelo usuário.
+2025-04-26 10:59:17 [INFO] Monitoramento iniciado.
+2025-04-26 10:59:30.295740 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 10:59:30 [OK] Transmissão normal.
+2025-04-26 10:59:45.278144 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 10:59:45 [OK] Transmissão normal.
+2025-04-26 11:00:00.248265 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:00:00 [OK] Transmissão normal.
+2025-04-26 11:00:16.245086 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:00:16 [ALERTA] Áudio mudo detectado!
+2025-04-26 11:00:32.187553 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:00:32 [ALERTA] Áudio mudo detectado!
+2025-04-26 11:00:47.171040 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:00:47 [ALERTA] Áudio mudo detectado!
+2025-04-26 11:01:03.198426 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:01:03 [ALERTA] Áudio mudo detectado!
+2025-04-26 11:01:19.123446 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:01:19 [ALERTA] Áudio mudo detectado!
+2025-04-26 11:01:35.106731 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:01:35 [OK] Transmissão normal.
+2025-04-26 11:01:51.071134 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:01:51 [OK] Transmissão normal.
+2025-04-26 11:02:07.054207 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:02:07 [OK] Transmissão normal.
+2025-04-26 11:02:23.016697 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:02:23 [OK] Transmissão normal.
+2025-04-26 11:02:39.012225 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:02:39 [OK] Transmissão normal.
+2025-04-26 11:02:54.976176 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:02:55 [OK] Transmissão normal.
+2025-04-26 11:03:10.953891 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:03:11 [OK] Transmissão normal.
+2025-04-26 11:03:26.933030 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:03:27 [OK] Transmissão normal.
+2025-04-26 11:03:41.909228 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:03:42 [OK] Transmissão normal.
+2025-04-26 11:03:57.871837 [ERRO] Timeout ao tentar capturar áudio.
+2025-04-26 11:03:58 [OK] Transmissão normal.
+2025-04-26 11:03:58 [INFO] Monitoramento interrompido pelo usuário.
